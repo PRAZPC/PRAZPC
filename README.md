@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Ethical Hacking ,Python and Burpsuite 
 - 💞️ I’m looking to collaborate on every thing
 - 📫 How to reach me 
-- instagram.com/prazpc
-- prazpc.cf
+- https://instagram.com/prazpc
+- https://prazpc.cf/
 - 
 
 
