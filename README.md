@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prazwal Chapagain aka PRAZPC , NO_WAY_HERE
+- 👋 Hi, I’m Prazwal Chapagain aka PRAZPC ,
 - 👀 I’m interested in Ethical hacking ,desktop customization and many more
 - 🌱 I’m currently learning Ethical Hacking ,Python and Burpsuite 
 - 💞️ I’m looking to collaborate on every thing 
